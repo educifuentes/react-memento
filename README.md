@@ -10,3 +10,7 @@ When clicked, the cards should do a flip animation with CSS. Update the PWA’s 
 Cool features:
 
 From Firship.io Full React Course
+
+Pendings
+- header conflictua, al agregarlo no se renderiza nada
+- no funciona el pwa
